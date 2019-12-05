@@ -1,2 +1,3 @@
 # Wikipuncture
-### C'est cool
+Projet CPE Lyon TLI-2
+Moteur de recherche sur le thème des maladies de l'acupuncture
