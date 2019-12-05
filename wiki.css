@@ -1,0 +1,49 @@
+a {text-decoration: none;}
+a:hover {text-decoration: none;}
+html {
+	background: url(img/bg.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover;
+  background-size: cover;
+	overflow-y: scroll;
+}
+body {
+	background-color: transparent;
+}
+header {
+	margin-bottom: 2%;
+}
+h4 {
+	margin-bottom: 3%;
+}
+h5 {
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+#commentaire h5 {
+	color: red;
+}
+.recherche {
+	margin-top: 30px;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	list-style-type: none;
+}
+fieldset{
+	margin-bottom: 2%;
+}
+fieldset label{
+	font-size: 20px;
+}
+li label{
+	font-size: 15px;
+	margin-left: 10px;
+}
+h6 label{
+	margin-top: 5%;
+}
+footer{
+	margin-top: 7%;
+}
